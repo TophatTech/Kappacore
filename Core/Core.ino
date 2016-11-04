@@ -1,5 +1,5 @@
-/* ProtoCore - Core Development Program
-  by [B]Code (http://bcode.work)
+/* Kappa Core - Project In Development
+  by Tophat Tech (https://tophat.tech)
   This code is in the public domain.
 
   modified 29 October 2016

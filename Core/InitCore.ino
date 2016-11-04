@@ -7,8 +7,6 @@
  */
 
 
-
-
 void init_boot(){
     // Init serial for serial monitor, so we can see debug text in the Serial Monitor Window
   Serial.begin(9600);
